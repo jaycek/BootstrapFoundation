@@ -1,0 +1,7 @@
+.carouselMargin{
+    margin-top: 20px;
+}
+
+.carousel-inner > .carousel-item >img{
+    height:560px;
+}
